@@ -1,14 +1,13 @@
-### Oi! Eu sou o Will.
+### Oi! Eu sou o Will
 
-- 🔭 Estudante de Desenvolvimento Web na Trybe
-- 🌱 Atualmente estou estudando: Desenvolvimento Front-end
-- 😄 Pronomes: ele/dele
+- Estudante de Desenvolvimento Web na Trybe
+- Atualmente estou estudando: Desenvolvimento Front-end
+- Pronomes: ele/dele
 
-<div align="center">
-  <a href="https://github.com/gomeswillderson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomeswillderson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomeswillderson&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=gomeswillderson&show_icons=true)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gomeswillderson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
