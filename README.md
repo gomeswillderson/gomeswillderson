@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Will
 
 - Estudante de Desenvolvimento Web na Trybe
-- Atualmente estou estudando: Desenvolvimento Front-end
+- Atualmente estou estudando: Desenvolvimento Back-end
 - Pronomes: ele/dele
 
 
